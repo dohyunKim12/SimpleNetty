@@ -12,7 +12,7 @@ import java.net.InetSocketAddress;
 import java.util.Scanner;
 
 public class Client {
-    private static final int SERVER_PORT = 11011;
+    private static final int SERVER_PORT = 3000;
     private final String host;
     private final int port;
 
